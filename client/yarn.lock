@@ -5788,7 +5788,7 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
-react-materialize@^2.5.0:
+react-materialize@^2.4.8:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/react-materialize/-/react-materialize-2.5.0.tgz#51a7d2317d1ce46aad3739c7e96a8b6d18f076bc"
   integrity sha512-hAl9v5uJkQOBjd+PNZ9PcIsMjlLYHqZzB4QIXKmyCuMnjw4/cFIOmD7x9Ff978L4kj35LaEfiObPL9RDk4rCUg==
@@ -6423,7 +6423,7 @@ sntp@1.x.x:
   dependencies:
     hoek "2.x.x"
 
-socket.io-client@^2.2.0:
+socket.io-client@^2.1.1:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/socket.io-client/-/socket.io-client-2.2.0.tgz#84e73ee3c43d5020ccc1a258faeeb9aec2723af7"
   integrity sha512-56ZrkTDbdTLmBIyfFYesgOxsjcLnwAKoN4CiPyTVkMQj3zTUh0QAx3GbvIvLpFEOvQWu92yyWICxB0u7wkVbYA==
